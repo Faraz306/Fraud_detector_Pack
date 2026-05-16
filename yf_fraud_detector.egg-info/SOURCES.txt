@@ -1,0 +1,7 @@
+setup.py
+yf_fraud_detector/Predict.py
+yf_fraud_detector.egg-info/PKG-INFO
+yf_fraud_detector.egg-info/SOURCES.txt
+yf_fraud_detector.egg-info/dependency_links.txt
+yf_fraud_detector.egg-info/requires.txt
+yf_fraud_detector.egg-info/top_level.txt
